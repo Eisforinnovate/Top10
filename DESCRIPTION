@@ -1,0 +1,9 @@
+Package: Top10
+Type: Package
+Title: Building a prediction model from the top 10 features
+Version: 1.0
+Date: 2014-11-02
+Author: Eric William Dolan
+Maintainer: Eric William Dolan <ericwdolan91@gmail.com>
+Description: Functions for building and predicting models from selecting the top 10 predictors in a data set
+License: GPL-3
