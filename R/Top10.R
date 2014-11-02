@@ -1,7 +1,7 @@
 #' Building a model with top 10 featues
 #' 
 #' This function develops a prediction algorithm based on the top 
-#' 10 feautes in x that are most predicative of y.
+#' 10 features in x that are most predicative of y.
 #' 
 #' @param x a n x p matrix of n observations and p predictors
 #' @param y a vector of length n representing the response
